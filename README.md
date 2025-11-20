@@ -4,6 +4,7 @@
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
 # Recursive sequential search of max and min value whith a pair
+
 Implementazione ricorsiva dell'algoritmo di ricerca dei valori minimo e 
 del valore massimo presenti all'interno di un vettore.
 
