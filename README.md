@@ -3,7 +3,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
 ![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-# Recursive sequential search of max and min value whith a pair
+# Recursive sequential search of max and min value with a pair
 
 Implementazione ricorsiva dell'algoritmo di ricerca dei valori minimo e 
 del valore massimo presenti all'interno di un vettore.
